@@ -1,0 +1,48 @@
+.navbar-static-top {
+	margin-bottom: 20px;
+}
+
+i {
+	font-size: 16px;
+}
+
+.nav>li>a {
+	color: #787878;
+}
+
+/* count indicator near icons */
+.nav>li .count {
+	position: absolute;
+	bottom: 12px;
+	right: 6px;
+	font-size: 9px;
+	background: rgba(51, 200, 51, 0.55);
+	color: rgba(255, 255, 255, 0.9);
+	line-height: 1em;
+	padding: 2px 4px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	border-radius: 10px;
+}
+
+/**side bar**/
+#sidebar {
+	background: #ffffff;
+	width: 220px;
+	border-radius: 12px;
+	-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27);
+}
+
+.step_head {
+	margin-top: -5px;
+}
+
+.active {
+	color: #fff;
+}
+
+label {
+	color: #fb2f3a;
+}
